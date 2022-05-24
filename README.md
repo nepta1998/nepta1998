@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nepta1998
 - 👀 I’m interested in programming in python
-- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
